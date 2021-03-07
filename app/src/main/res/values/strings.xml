@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CBT An-Nasihin</string>
+    <string name="title">CBT AN-NASINIHIN</string>
+    <string name="imgAlt">logoFront</string>
+    <string name="button">MULAI</string>
+    <string name="dialogBoxTitle">Perhatian!!</string>
+    <string name="warningFront">Apakah anda yakin?</string>
+    <string name="warningExit">"Keluar dari aplikasi"</string>
+</resources>
