@@ -1,3 +1,3 @@
-# CBT-Android" 
+# CBT-Android
 
 In Development
